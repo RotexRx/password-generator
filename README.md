@@ -27,10 +27,15 @@ A simple and secure command-line application written in Node.js to generate stro
 
 ---
 
-## How to Use
+## Running the Application with `.bat` File
 
-1. Clone or download this repository.
-2. Open a terminal and navigate to the project folder.
-3. Run the script:
-   ```bash
-   node passwordGenerator.js
+For convenience, a `.bat` file (`runPasswordGenerator.bat`) is included in the project directory. This file allows you to run the password generator application with a simple double-click.
+
+### How to Use:
+
+1. Ensure that you have **Node.js** installed on your system.
+2. Double-click the `runPasswordGenerator.bat` file located in the project directory.
+3. The script will run automatically in a Command Prompt window, where you'll be prompted to enter the necessary details for generating a password.
+
+This method is an easy way to run the application without needing to manually execute the Node.js script from the command line.
+
